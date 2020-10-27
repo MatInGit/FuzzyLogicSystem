@@ -1,2 +1,2 @@
-# FuzzyLogicSystem
-Coursework for CS551J
+# Fuzzy Logic System
+Fuzzy logic parser
